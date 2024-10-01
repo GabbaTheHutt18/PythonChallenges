@@ -37,7 +37,6 @@ def RandomTurtle():
         turtle.color(random.choice(colour_tuple))
         turtle.right(Angle)
         turtle.forward(Length)
-        print("Hello")
 
 def TurtleGraphics():
     scr = turtle.Screen()
